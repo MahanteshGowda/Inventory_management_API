@@ -1,6 +1,4 @@
-"""
-This script runs the LimaPaymentApis application using a development server.
-"""
+
 from os import environ
 from source import app
 
